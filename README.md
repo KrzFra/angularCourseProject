@@ -25,10 +25,6 @@ VSCode Extensions:
 pkief.material-icon-theme  
 https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 
-- Prettier - Code formatter  
-esbenp.prettier-vscode  
-https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-
 - Angular Language Service  
 angular.ng-template  
 https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
