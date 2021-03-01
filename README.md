@@ -33,17 +33,9 @@ https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 angular.ng-template  
 https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
 
-- Angular Language Service  
-angular.ng-template  
-https://marketplace.visualstudio.com/items?itemName=Angular.ng-template
-
 - NG.42 TS Helpers  
 ng-42.ng-fortytwo-vscode-extension  
 https://marketplace.visualstudio.com/items?itemName=NG-42.ng-fortytwo-vscode-extension
-
-- Angular 8 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout  
-mikael.angular-beastcode  
-https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode
 
 - Angular Extension Pack  
 loiane.angular-extension-pack  
