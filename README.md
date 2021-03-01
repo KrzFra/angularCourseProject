@@ -49,6 +49,10 @@ https://marketplace.visualstudio.com/items?itemName=Mikael.Angular-BeastCode
 loiane.angular-extension-pack  
 https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack
 
+- Bracket Pair Colorizer  
+coenraads.bracket-pair-colorizer  
+https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer
+
 ### Install Angular Command Line Interface
 
 Open Cmder and execute the following command:
